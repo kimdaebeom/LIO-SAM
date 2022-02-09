@@ -30,6 +30,7 @@ add_message_files(
   DIRECTORY msg
   FILES
   cloud_info.msg
+  key_frame.msg
 )
 
 add_service_files(
